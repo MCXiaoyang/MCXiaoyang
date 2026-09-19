@@ -6,12 +6,10 @@ I build simulators and small systems in C++ and Python.
 
 | Repo | Stack | What |
 |---|---|---|
-| [mxy-sandbox](https://github.com/MCXiaoyang/mxy-sandbox) | C++ · Python | Toy OS sandbox: virtual CPU, memory, processes, filesystem + TTY frontend |
-| [6502-emu](https://github.com/MCXiaoyang/6502-emu) | C++17 | Complete 6502 CPU emulator, 151 opcodes, cycle-accurate |
-| [mxy-sear](https://github.com/MCXiaoyang/mxy-sear) | Python · Flask | Bing meta-search engine with glassmorphism UI |
-| [celegans-lif-ursina](https://github.com/MCXiaoyang/celegans-lif-ursina) | Python | C. elegans LIF neural simulation with Ursina 3D |
-| [memory-match-game](https://github.com/MCXiaoyang/memory-match-game) | Python · Pygame | Memory matching game with animations and synthesized sound |
+### 项目展示
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MCXiaoyang&repo=mxy-sandbox)](https://github.com/MCXiaoyang/mxy-sandbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MCXiaoyang&repo=6502-emu)](https://github.com/MCXiaoyang/6502-emu)
 ## Tech
 
 C++ · Python · JavaScript · CMake · Makefile · Git · GitHub Actions
