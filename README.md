@@ -2,24 +2,18 @@
 
 I build simulators and small systems in C++ and Python.
 
-## Projects
+🌐 **[See all my projects → mcxiaoyang.github.io](https://mcxiaoyang.github.io)**
 
-| Repo | Stack | What |
-|---|---|---|
-### 项目展示
+## Featured
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MCXiaoyang&repo=mxy-sandbox)](https://github.com/MCXiaoyang/mxy-sandbox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MCXiaoyang&repo=6502-emu)](https://github.com/MCXiaoyang/6502-emu)
+- **[mxy-sandbox](https://github.com/MCXiaoyang/mxy-sandbox)** — Toy OS sandbox: virtual CPU, memory, processes, filesystem + TTY frontend
+- **[6502-emu](https://github.com/MCXiaoyang/6502-emu)** — Complete 6502 CPU emulator in C++17, 151 opcodes, cycle-accurate
+
 ## Tech
 
 C++ · Python · JavaScript · CMake · Makefile · Git · GitHub Actions
 
-## What I'm working on
-
-- Multi-platform CI for C++ projects
-- Building a toy operating system sandbox from scratch
-- Exploring RISC-V emulation
-
 ## Contact
 
 - GitHub: [@MCXiaoyang](https://github.com/MCXiaoyang)
+- Site: [mcxiaoyang.github.io](https://mcxiaoyang.github.io)
